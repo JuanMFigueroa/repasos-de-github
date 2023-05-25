@@ -1,0 +1,25 @@
+1. conjunto de instrucciones escritas para realizar una tarea
+2. representar y describir un algoritmo
+3. inicio / fin
+4. rectangulo
+5. una condición
+6. paralelogramo
+7. paralelogramo
+8. un ciclo o bucle es usado cuando hay un error y se necesito de volver a hacer el proceso, o para una tarea repetitiva
+9. bucle while
+10. while, while-do, for
+11. no hay
+12. la estructura se constituye de flechas y un rombo
+13. pone una condicion para que la proxima vez que se haga un bucle se cumpla
+14. rombo
+15. if
+16. if not
+17. while
+18. while do
+19. for
+20. if condicion (falso / verdadero)
+21. if not condicion (falso / verdadero)
+22. while condicion
+23. while do condicion
+24. for variable' range(start, stop, step)
+25. con flechas y rombos, el rombo tiene la condicion y las flechas devuelven el proceso
